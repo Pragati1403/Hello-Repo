@@ -1,1 +1,3 @@
-print "i am pugs
+print ("start")
+assert 2==3
+print ("end")
